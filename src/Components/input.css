@@ -1,0 +1,14 @@
+.input {
+    height: 4em;
+    font-family: 'Segoe UI';
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.8em;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 0.5em;
+    outline: 1px solid #888888;
+  }
+  
